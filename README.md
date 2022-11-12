@@ -1,4 +1,4 @@
 # Tugas-Dasar-Pemrograman
 
-Nama   : Gepira Nur Patimah\\
-kelas  : TI22F
+Nama   : Gepira Nur Patimah \
+Kelas  : TI22F
