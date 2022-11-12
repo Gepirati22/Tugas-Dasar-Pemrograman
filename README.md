@@ -1,4 +1,4 @@
-# Tugas-Dasar-Pemrograman (b/r)
+# Tugas-Dasar-Pemrograman
 
-Nama   : Gepira Nur Patimah (b/r)
+Nama   : Gepira Nur Patimah\\
 kelas  : TI22F
